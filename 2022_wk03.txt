@@ -1,0 +1,34 @@
+Weekly Summary:
+
+1) FinRL:
+In general there was not too much discssion on slack group. For FinRL there was update that they are doing a code maintance soon and elegant RL documentation website have been updated
+
+Here is updated elegant rl documenation
+https://elegantrl.readthedocs.io/en/latest/index.html
+
+2) FinRL Meta:
+There were queries realted only no update or changes update
+
+3) Finance AI:
+
+I found some libraries realted to our domain:
+
+1) bulbea is a python based library where we can train deep learning models and make predicition models. This library contains all the function like split train and deep learning models we just need to plug the data of ticker and train the model . Its quite easy to play with
+
+Links:
+
+https://github.com/achillesrasquinha/bulbea#documentation
+https://bulbea.readthedocs.io/en/latest/
+
+2) https://github.com/JordiCorbilla/stock-prediction-deep-neural-learning
+
+This repo have in built funcions to download ticker data then use a deep LSTM network to train and predict the makret price. we can use this in price prediction tasks
+
+3) https://github.com/PacktPublishing/Hands-On-Deep-Learning-for-Finance/tree/master/Volatility%20Forecasting%20by%20LSTM
+
+Using this repo we can find the votaility in the market and can take actions accordingly in future. We can use this as a feature in our data that defines votality rate
+
+4) https://github.com/yuriak/DLQuant
+
+This repo use news data + ticker past price data to predict the future price according to current news and historical data
+

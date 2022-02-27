@@ -1,0 +1,17 @@
+Weekly Summary:
+
+I studied different blogs and papers out of them I found these relevant to our goal:
+
+FinRL
+One is hyper parameter optimization for FinRL:
+https://medium.com/analytics-vidhya/hyperparameter-tuning-using-optuna-for-finrl-8a49506d2741
+
+Finance AI:
+Second is paper in which they used news+ stocks data to make future prediction:
+https://link.springer.com/article/10.1007/s41060-021-00279-9
+
+Genetic modeling to make populations for stock trading actions:
+https://medium.com/analytics-vidhya/stock-price-prediction-using-genetic-algorithms-65c64b002d9
+
+FinRL-Meta
+For FinRL Meta we have optimized the whole architecture now we can apply optmization on finrl_meta network parameter to any see gain improvment

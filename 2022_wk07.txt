@@ -1,0 +1,43 @@
+Weekly Summary:
+
+Slack Group:
+
+1) FinRL Documentaion now officaly avaliable
+https://www.mlfinlab.com/en/latest/
+Elegant RL Documenation link
+https://elegantrl.readthedocs.io/en/latest/index.html
+
+2) TuneTA Library for Indicators:
+https://github.com/jmrichardson/tuneta
+
+3) Reward function that can be used in FinRL:
+
+a) Considering immediate and long-term reward:
+
+https://arxiv.org/ftp/arxiv/papers/1907/1907.04373.pdf -
+
+b) Differential Sharpe Ratio (Sharpe ratio reward step by step):
+https://github.com/AchillesJJ/DSR / https://quant.stackexchange.com/questions/37969/what-s-the-derivative-of-the-sharpe-ratio-for-one-asset-trying-to-optimize-on-i
+
+https://proceedings.neurips.cc/paper/1998/file/4e6cd95227cb0c280e99a195be5f6615-Paper.pdf
+
+c) Deflated Sharpe Ratio - M López De Prado -
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2465675
+
+d) Smart Sharpe:
+
+https://www.keyquant.com/Download/GetFile?Filename=%5CPublications%5CKeyQuant_WhitePaper_APT_Part2.pdf
+
+Finance AI
+
+1) Python based Stock analysis engine:
+
+https://github.com/AlgoTraders/stock-analysis-engine
+
+2) An amazing Microsoft ML library with contains all componets (pipelines, code, backtesting)
+
+https://github.com/microsoft/qlib
+
+3) AI Finance Advisor and portfolio management:
+
+https://github.com/EnigmAI/Financely

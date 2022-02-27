@@ -1,0 +1,24 @@
+Weekly Summary:
+
+Slack Group:
+
+Some contributor in the group shared some case studies where machine learning can be used in finance. Here is the link:
+https://slack-files.com/T01GYDU6KB6-F031DTGU0BA-dc2080aa5b
+
+He also shared this paper by David Turkington
+Paper Name: (Investable and Interpretable Machine Learning for Equities)
+https://globalmarkets.statestreet.com/research/service/public/v1/article/insights/pdf/c27cc8fe-457d-4116-92fc-5c0408cccde1
+
+except that there was no update on other channels
+
+Finance AI:
+
+I found these libraries related to our project:
+
+1) I found this library that contain datasets relevant to (market movement, risk analysis and boundry detection) and some state of the art trading papers:
+
+https://github.com/sangyx/deep-finance
+
+2) The second repo contains papers, startegies, data sources and trading system in detail here is the link:
+
+https://github.com/georgezouq/awesome-ai-in-finance 

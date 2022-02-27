@@ -1,0 +1,27 @@
+Weekly Summary:
+
+Slack Group:
+
+There was 2 main discussion that I found that the main author (Phd professor) shared a book related to Finance machine learning. Here is the link:
+https://slack-files.com/T01GYDU6KB6-F02VCHRGDDF-2a0993b230
+
+Secondly he shared a blog in which there was a case study that revelaed that web 3.0 is developing at exponetial pace
+
+What is web 3.0:
+
+Web 3.0 is the third generation of internet services for websites and applications that will focus on using a machine-based understanding of data to provide a data-driven and Semantic Web.
+
+Finance AI:
+
+I found these libraries related to our project:
+
+I found this amazing library that contain all stock trading models and their code with their performance graphs. In this repo there are deep learning models, reinforcment learning models and some amazing data analysis code notebooks
+
+https://github.com/huseinzol05/Stock-Prediction-Models
+
+This is a reinforcement learning q trade library we can train our data on this model to see performance the picture they showed in the repo is showing good results
+https://github.com/edwardhdlu/q-trader
+
+This git repo contain keras implementation of dqn (reinforment learning model) we might in future need to implement our own custom model we can take help from here
+https://github.com/kh-kim/stock_market_reinforcement_learning
+

@@ -1,0 +1,31 @@
+WEEKLY UPDATE:
+
+
+SLACK GROUP:
+
+
+> FinRL authors have created a repo by name Awesome AI Finance. They have all repos/code/data/libraries realted to finance 
+	Here is the link:  https://github.com/AI4Finance-Foundation/Awesome_AI4Finance
+
+
+> Someone in group posted a git repo for backtesting RL Models which he is working on:
+	Link: https://github.com/Athe-kunal/FinRL-project
+
+
+> Plotting real time data using alpaca and streamlit:
+
+	https://medium.com/analytics-vidhya/financial-data-streaming-using-alpaca-and-streamlit-88aa21c75f27
+
+
+
+Finance AI:
+
+
+A repo that monitors twitter and the stock market, and learns to correlate the two in order to predict the direction of the market in real time
+https://github.com/26medias/AIStock
+
+
+This repo  calculate log returns and the volitility of the data to see what the overall trend stocks and calculates the the best portfolio weights for a portfolio with a maximum return to volitility ration 
+
+https://github.com/gregyjames/AIPortfolio
+
