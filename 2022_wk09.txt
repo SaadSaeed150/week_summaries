@@ -1,0 +1,34 @@
+> Slack Group:
+
+1) Article for elegantRL and how it is better and faster then stables lines have be published here is the link
+https://elegantrl.medium.com/elegantrl-much-much-more-stable-than-stable-baseline3-f096533c26db
+
+
+2) A new code base is created in finrl repo to add features into DRL agent using ML Models the current code is for crypto but it can 
+be changed to stocks according to author
+https://github.com/AI4Finance-Foundation/FinRL-Meta/blob/master/Demo_Crypto_Feature_Importance.ipynb
+
+
+
+3) A blog "Crypto feature importance for Deep Reinforcement Learning" is published on medium which can be applied to stocks
+https://medium.com/@CoderBurnt/crypto-feature-importance-for-deep-reinforcement-learning-38416616c2a36-8416616c2a36
+
+
+
+> FinanceRL:
+
+
+1) Found a repo of model C-SIG-GANS for time series data creation here is the link: 
+https://github.com/SigCGANs/Conditional-Sig-Wasserstein-GANs
+
+
+2) Found an article that contains all papers related to every possible use of deep learning in Finance in every aspect from GANS to RL Papers:
+https://deepallocation.com/Sub_html_frontier/index_Frontier.html
+
+3) Deep Learning based Python Library for Stock Market Prediction and Modelling which can do 
+	preprocessing, modelling, testing, and sentimental analysis for stocks Here is link:
+https://github.com/achillesrasquinha/bulbea
+
+
+4) deepdow is a Python package connecting portfolio optimization and deep learning. Its goal is to facilitate weight allocation for stocks portfolios.
+https://github.com/jankrepl/deepdow
